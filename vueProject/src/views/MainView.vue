@@ -1,10 +1,8 @@
 <template>
   <div class="container">
-    <Sidebar></Sidebar>
+    <Sidebar/>
     <div class="content">
-        <router-view>
-            
-        </router-view>
+        <router-view />
     </div>
   </div>
 </template>
